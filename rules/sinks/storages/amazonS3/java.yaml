@@ -12,7 +12,7 @@ sinks:
     tags:
 
   - id: Storages.AmazonS3.Write
-    name: S3(Write)
+    name: S4(Write)
     domains:
       - aws.amazon.com
     patterns: 
